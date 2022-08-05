@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  Oteire
+
+  Created by HotariTobu on 2022/02/19.
+  
+*/
+
+"Add Schedule" = "スケジュールを追加する";
+"New Schedule" = "新しいスケジュール";
+"Cancel" = "キャンセル";
+"Add" = "追加";
+"Mark as Done" = "完了としてマークする";
+"Do It" = "やりましょう";
+
+"Name" = "名前";
+"Date" = "日付";
+"Time" = "時刻";
+"Interval" = "間隔";
+"Remarks" = "備考";
+"Notify in" = "次の日時に通知されます。";
+
+"Daily" = "日";
+"Weekly" = "週";
+"Monthly" = "月";
+
+"days" = "日";
+"weeks" = "週間";
+"months" = "ヶ月";
+
+"Yesterday" = "昨日";
+"Last Week" = "先週";
+"Last Month" = "先月";
+
+"Today" = "今日";
+"This Week" = "今週";
+"This Month" = "今月";
+
+"Tomorrow" = "明日";
+"Next Week" = "来週";
+"Next Month" = "来月";
+
+"before" = "前";
+"after" = "後";
+
+"Retain Notifications" = "通知を保持する";
+"Notify as long as Schedules have been not done or not clear the Notifications." = "スケジュールを完了させるか、通知をクリアしない限り、通知され続けます。";
+"Notify once when the Schedule date-time comes." = "スケジュールの日時が来た時に一度だけ通知されます。";
+
+"If you have anything, please post it in the store." = "ご意見などがあればストアに投稿をお願いします。";
