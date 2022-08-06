@@ -13,6 +13,8 @@ There are so many reminder apps in App Store. However, I didn't like them. I wan
 ## VS.
 
 [Reminders](https://apps.apple.com/jp/app/reminders/id1108187841)
+Made by Apple.
+Has more features.
 
 ## Usage
 
