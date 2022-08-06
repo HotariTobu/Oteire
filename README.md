@@ -8,7 +8,7 @@ There are so many reminder apps in App Store. However, I didn't like them. I wan
 
 ## Demo
 
-![](img/demo.mp4)
+![](img/demo.gif)
 
 ## VS.
 
